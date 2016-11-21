@@ -1,6 +1,5 @@
 var trackRadomNumber = []; 
 var randomNumber; 
-var lastRandomNumber; 
 var timeStart;
 
 //Array of quotes
